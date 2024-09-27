@@ -1,0 +1,13 @@
+{
+  "name": "alphabets-counter-AAA",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "devDependencies": {
+    "electron": "^32.1.2",
+    "electron-builder": "^23.0.0"
+  }
+}
